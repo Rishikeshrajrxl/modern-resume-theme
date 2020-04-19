@@ -61,11 +61,11 @@ more_content: | # this will include new lines to allow paragraphs
 # More Section(Certification)
 # more_title:Certification #(Use this to override about more section title)
 more_content2: | # this will include new lines to allow paragraphs
-  - **PHP with MySQL Essential Training:** - Lynda
-  - **Introduction To Web Development** : - Coursera
-  - **Introduction to Data Structure & Algorithms in Java** : - Lynda
-  - **Programming Foundations with HTML and CSS**  : - Coursera  
-  - **Fundamental of Digital Marketing**  : - Google  
+  -<a href="https://www.hackerrank.com/rishikeshraj"> **PHP with MySQL Essential Training** </a>
+  - **Introduction To Web Development** 
+  - **Data Structure & Algorithms in Java** 
+  - **Programming with HTML and CSS**  
+  - **Fundamental of Digital Marketing**  
   
   
 # Footer
