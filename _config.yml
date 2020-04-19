@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title:Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   - **Programming** : JAVA, C++, HTML, CSS, PHP
-     - **Database** :  MYSQL
-      -**Packages** :  JAVA-SWING
-      -**Couese **  :  Data Structure & Algorithm
+  - **Database** :  MYSQL
+  - **Packages** :  JAVA-SWING
+  - **Couese **  :  Data Structure & Algorithm
   
   
 # Footer
