@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Rishikesh raj
+title: Software Developer
+email: rishikeshrajrxl@gamil.com (optional)
+phone: +919521864647 (optional)
+website: www.rishikeshraj.com(eg. https://google.com)(optional)
 
 darkmode: true
 
