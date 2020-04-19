@@ -6,3 +6,12 @@
     </div>
   </div>
 </div>
+
+<div class="container more-container">
+  <h3>{{ site.more_title | default: "Certification" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.more_content2 | strip | markdownify }}
+    </div>
+  </div>
+</div>
