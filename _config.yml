@@ -70,7 +70,7 @@ more_content2: | # this will include new lines to allow paragraphs
   
   
 #Award section
-# education_title: Education #(Use this to override about education section title)  
+education_title: Honours&Achievements #(Use this to override about education section title)  
   
 # Footer
 footer_show_references: true
