@@ -9,22 +9,22 @@ email: rishikeshrajrxl@gamil.com (optional)
 phone: +919521864647 (optional)
 website: www.rishikeshraj.com(eg. https://google.com)(optional)
 
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: jekyllrb
 github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
 facebook_username: jekyll
-flickr_username: jekyll
+#flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
 youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
