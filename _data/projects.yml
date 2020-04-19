@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Online Voting System
+  link: http://onlinevoting.byethost13.com/index.php?i=1
+  github: https://github.com/Rishikeshrajrxl/Online-Voting-System
   quote: >
-    Short overview of the project (optional)
+    This is a online voting system. It can be used for any General purpose Election.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
