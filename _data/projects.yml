@@ -4,7 +4,8 @@
   link: http://onlinevoting.byethost13.com/index.php?i=1
   github: https://github.com/Rishikeshrajrxl/Online-Voting-System
   quote: >
-    This is a online voting system. It can be used for any General purpose Election.
+   This is a Online-Voting-System, a web application. It can be used for general purpose Election. Special authentication  with AdharCard for  Every User. Here PHP is used for handling Server Side.
+   This project is in running mode. Below is the link:  
   description: |
            FrontEnd: HTML,CSS & BackEnd: PHP,MYSQL
     
