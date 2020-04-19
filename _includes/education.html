@@ -8,6 +8,10 @@
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
   {% endfor %}
   
+  {% for education in site.data.edu3 %}
+    {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
+  {% endfor %}
+  
 </div>
 
 
