@@ -68,6 +68,10 @@ more_content2: | # this will include new lines to allow paragraphs
   - <a href="http://https//LEARNDIGITAL.WITHGOOGLE.COM/DIGITALUNLOCKED/validate-certificate-code">**Fundamental of Digital Marketing**  </a>
   
   
+  
+#Award section
+# education_title: Education #(Use this to override about education section title)  
+  
 # Footer
 footer_show_references: true
 
