@@ -97,13 +97,7 @@
             </a>
           </li>
         {%- endif -%}
-        {% for link in site.additional_links %}
-          <li>
-            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
-              <i class="fab {{ link.icon }}" title="{{ link.title | escape }}"></i>
-            </a>
-          </li>
-        {% endfor %}
+        
       </ul>
 
       {%- if site.email -%}
