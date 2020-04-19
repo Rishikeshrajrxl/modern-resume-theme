@@ -6,6 +6,6 @@
   quote: >
     This is a online voting system. It can be used for any General purpose Election.
   description: | # this will include new lines to allow paragraphs
-    FrontEnd: HTML & CSS |
+    FrontEnd: HTML & CSS >
     BackEnd: PHP & MYSQL
     
