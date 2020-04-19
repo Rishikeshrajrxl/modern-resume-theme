@@ -3,4 +3,14 @@
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
+  
+  {% for project in site.data.project2 %}
+    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+  {% endfor %}
+  
+  {% for project in site.data.project3 %}
+    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+  {% endfor %}
+  
+  
 </div>
