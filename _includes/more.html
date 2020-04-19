@@ -15,3 +15,12 @@
     </div>
   </div>
 </div>
+
+<div class="container more-container">
+  <h3>{{ site.more_title | default: "Hobbies" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.more_content3 | strip | markdownify }}
+    </div>
+  </div>
+</div>
