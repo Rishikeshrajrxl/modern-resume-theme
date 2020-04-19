@@ -1,0 +1,10 @@
+# Project template
+- layout: top-middle
+  name: Library Management System
+  link: https://github.com/Rishikeshrajrxl/Library-Management-System
+  github: https://github.com/Rishikeshrajrxl/Library-Management-System
+  quote: >
+    This Library Management System( Desktop Application ) was made in 4th semester under my graduation.
+    It Includes basics of JDBC for creating a interaction between java swing and Mysql Database.
+  description: |
+           FrontEnd: JAVA-SWING & BackEnd: MYSQL
