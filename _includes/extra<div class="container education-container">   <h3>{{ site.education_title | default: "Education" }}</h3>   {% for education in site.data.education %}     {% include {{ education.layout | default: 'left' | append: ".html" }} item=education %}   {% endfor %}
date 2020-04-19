@@ -1,0 +1,7 @@
+<div class="container education-container">
+  <h3>{{ site.education_title | default: "Honours & Achievements" }}</h3>
+  {% for education in site.data.extra %}
+    {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
+  {% endfor %}
+  
+  </div>
