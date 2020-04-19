@@ -61,11 +61,11 @@ more_content: | # this will include new lines to allow paragraphs
 # More Section(Certification)
 # more_title:Certification #(Use this to override about more section title)
 more_content2: | # this will include new lines to allow paragraphs
-  -<a href="https://www.hackerrank.com/rishikeshraj"> **PHP with MySQL Essential Training** </a>
-  - **Introduction To Web Development** 
-  - **Data Structure & Algorithms in Java** 
-  - **Programming with HTML and CSS**  
-  - **Fundamental of Digital Marketing**  
+  - <a href="http://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics"> **PHP with MySQL Essential Training** </a>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CBPD3RA59UN7"> **Introduction To Web Development** </a>
+  - <a href="http://www.linkedin.com/learning/introduction-to-data-structures-algorithms-in-java">**Data Structure & Algorithms in Java** </a>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/5VQRSNZAGZLR">**Programming with HTML and CSS**  </a>
+  - <a href="http://https//LEARNDIGITAL.WITHGOOGLE.COM/DIGITALUNLOCKED/validate-certificate-code">**Fundamental of Digital Marketing**  </a>
   
   
 # Footer
