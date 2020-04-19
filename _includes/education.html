@@ -3,11 +3,14 @@
   {% for education in site.data.education %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
   {% endfor %}
-</div>
-
-<div class="container education-container">
-  <h3>{{ site.education_title | default: "Education" }}</h3>
+  
   {% for education in site.data.edu2 %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
   {% endfor %}
+  
 </div>
+
+
+  
+  
+
