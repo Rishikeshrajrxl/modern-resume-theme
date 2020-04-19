@@ -1,1 +1,12 @@
 
+# Project template
+- layout: top-middle
+  name: Text-To-Speech-GUI-Notepad
+  link: https://github.com/Rishikeshrajrxl/-Text-To-Speech-GUI-Notepad
+  github: https://github.com/Rishikeshrajrxl/-Text-To-Speech-GUI-Notepad
+  quote: >
+    Basic Notepad with Additional features to convert Text-To-Speech(Desktop Application). 
+    This was made by me in 3rd semester. It include basic knowledge of Java, Swing and Awt. Along with few logics.
+
+  description: |
+           FrontEnd: JAVA-SWING 
