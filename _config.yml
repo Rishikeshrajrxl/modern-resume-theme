@@ -5,9 +5,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Rishikesh raj
 title: Software Developer
-email: rishikeshrajrxl@gamil.com (optional)
-phone: +919521864647 (optional)
-website: www.rishikeshraj.com(eg. https://google.com)(optional)
+email: rishikeshrajrxl@gamil.com 
+phone: +919521864647 
+website: www.rishikeshraj.com
 
 darkmode: false
 
