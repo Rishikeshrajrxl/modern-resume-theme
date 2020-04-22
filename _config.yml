@@ -34,11 +34,9 @@ about_profile_image: profile2.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am Computer Science and Engineering (CSE) Undergraduate at Arya Institute of Engineering & Technology in my 2nd year. 
   Working with computer programmers and professionals to solve problems and create products. I'm eager to learn and expand my knowledge 
-  and always curious to learn things by doing.
-  I have a profound interest in programming, application development,web development,Database handling. 
+  and always curious to learn things by doing. I have a profound interest in programming,application development,web development,Database handling. 
   I am a self-driven person with established goals and plans to achieve them. I have always been success-oriented, and will always work
-  towards achieving more.
-  In my free time I love to code at below Given Platform.
+  towards achieving more. In my free time I love to code at below Given Platform.
     
     - <a href="https://www.hackerrank.com/rishikeshraj">Hackerrank</a>
     - <a href="https://auth.geeksforgeeks.org/user/rishikeshrajrxl/practice/">GeeksforGeeks</a>
